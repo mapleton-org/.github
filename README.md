@@ -1,2 +1,2 @@
-# Welcome to Mapleton Org
-This is the development organisation for the Mapleton Community, publishing frameworks and developing projects to power our community in the back end.
+# mapleton-org/.github
+Welcome to the official .github repository, which is the special repository for this organisation.
